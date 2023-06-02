@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom";
-import { AuthRoutes } from "../../routes/AuthRoutes"
+import { Link } from 'react-router-dom';
+import { AuthRoutes } from '../../constants/routes';
 
 export const Unauthorized = () => {
   return (
